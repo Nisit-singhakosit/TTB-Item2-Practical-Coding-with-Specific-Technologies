@@ -1,6 +1,6 @@
 package com.assignment.controller;
 
-import com.assignment.entity.Customer;
+import com.assignment.model.Customer;
 import com.assignment.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

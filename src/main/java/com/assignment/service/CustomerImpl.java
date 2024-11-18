@@ -1,6 +1,6 @@
 package com.assignment.service;
 
-import com.assignment.entity.Customer;
+import com.assignment.model.Customer;
 import com.assignment.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

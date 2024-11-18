@@ -1,6 +1,6 @@
 package com.assignment.service;
 
-import com.assignment.entity.Customer;
+import com.assignment.model.Customer;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
